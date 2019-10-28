@@ -14,6 +14,7 @@ float:right;
 font-size:1.1em;
 text-align:center;
 color:#ccc;
+fill:#ccc;
 }
 .tc-rating .tc-rate{
 cursor:pointer;
@@ -25,12 +26,14 @@ opacity:.25;
 .tc-rating .tc-rate:hover ~ button[class^="tc-rating-"],
 .tc-rating .tc-rate:hover ~ button[class*=" tc-rating-"] {
 color:orange;
+fill:orange;
 opacity:1;
 }
 .tc-rating .tc-selected,
 .tc-rating .tc-selected ~ button[class^="tc-rating-"],
 .tc-rating .tc-selected ~ button[class*=" tc-rating-"]{
 color:orange;
+fill:orange;
 }
 
 .tc-rating-template {
@@ -40,12 +43,14 @@ right:48px;
 
 .tc-rating .tc-reset-rating {
 color:#ccc;
+fill:#ccc;
 opacity:.25;
 padding:0 5px;
 cursor:pointer;
 }
 .tc-rating .tc-reset-rating:hover {
 color:#999;
+fill:#999;
 opacity:1 !important;
 }
 

@@ -1,3 +1,7 @@
+This is a fork of the original rate plugin to allow the symbol to be an svg image
+
+---
+
 tobibeer/rate [![flattr me](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=beertobias&url=https://github.com/tobibeer/tw5-rate&title=rate plugin for TiddlyWiki by tobibeer&language=JavaScript&tags=github&category=software)
 =================
 
